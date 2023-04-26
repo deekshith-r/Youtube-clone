@@ -1,2 +1,3 @@
 # Youtube-clone
-![download (1)](https://user-images.githubusercontent.com/99900421/234660631-731af2f2-1b93-4b8e-865d-4be6f1b3d914.jpeg)
+![Screenshot 2023-04-26 231755](https://user-images.githubusercontent.com/99900421/234660980-18134db9-afb1-4119-832b-5f3448c150d2.png)
+
